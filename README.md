@@ -14,6 +14,6 @@ Substitute the values in the distance formula  ![formula](/formula.jpg)
 
 
 ### OUTPUT:
-
+![output](/distance.png)
 
 ### RESULT:
